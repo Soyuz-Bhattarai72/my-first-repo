@@ -1,2 +1,2 @@
-# my-second-repo
-My second repo
+# my-first-repo
+My first repo
